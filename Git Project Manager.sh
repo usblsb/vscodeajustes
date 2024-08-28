@@ -1,0 +1,1 @@
+mkdir -p $HOME/proyectos/{personal,trabajo,wordpress,prestashop,academia,a3erp,borrar,vscodeajustes,arduino}
