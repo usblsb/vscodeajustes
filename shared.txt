@@ -1,0 +1,21 @@
+sudo mkdir -p /Users/Shared/proyectos/{personal,trabajo,wordpress,prestashop,academia,a3erp,borrar,vscodeajustes,arduino}
+sudo chown -R $USER:staff /Users/Shared/proyectos
+
+
+
+{
+    "gitProjectManager.baseProjectsFolders": [
+        "/Users/Shared/proyectos/personal",
+        "/Users/Shared/proyectos/trabajo",
+        "/Users/Shared/proyectos/wordpress",
+        "/Users/Shared/proyectos/prestashop",
+        "/Users/Shared/proyectos/academia",
+        "/Users/Shared/proyectos/a3erp",
+        "/Users/Shared/proyectos/borrar"
+    ],
+    "gitProjectManager.storeRepositoriesBetweenSessions": true,
+    "gitProjectManager.maxDepthRecursion": 3,
+    "gitProjectManager.searchInsideProjects": true,
+    "gitProjectManager.displayProjectPath": true,
+    "gitProjectManager.warnIfFolderNotFound": true
+}
