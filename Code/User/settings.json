@@ -858,36 +858,24 @@
 	"vsicons.associations.files": [
 		{
 			"icon": "typescript",
-			"extensions": [
-				"ts",
-				"tsx"
-			],
+			"extensions": ["ts", "tsx"],
 			"format": "svg"
 		},
 		{
 			"icon": "javascript",
-			"extensions": [
-				"js",
-				"jsx"
-			],
+			"extensions": ["js", "jsx"],
 			"format": "svg"
 		}
 	],
 	"vsicons.associations.folders": [
 		{
 			"icon": "src",
-			"extensions": [
-				"source",
-				"sources"
-			],
+			"extensions": ["source", "sources"],
 			"format": "svg"
 		},
 		{
 			"icon": "test",
-			"extensions": [
-				"tests",
-				"specs"
-			],
+			"extensions": ["tests", "specs"],
 			"format": "svg"
 		}
 	],
@@ -1183,7 +1171,7 @@
 	"projectManager.groupList": true,
 	"projectManager.treeview.collapsed": true,
 	"projectManager.any.maxDepthRecursion": 5,
-	"projectManager.hg.maxDepthRecursion":4,
+	"projectManager.hg.maxDepthRecursion": 4,
 	"projectManager.vscode.maxDepthRecursion": 4,
 	"projectManager.svn.maxDepthRecursion": 3,
 	"projectManager.git.maxDepthRecursion": 3,
@@ -1210,38 +1198,38 @@
 		"A3ERP"
 	],
 	"projectManager.git.baseFolders": [
-	"code",
-	"/Users/Shared/personal",
-	"/Users/Shared/trabajo",
-	"/Users/Shared/wordpress",
-	"/Users/Shared/prestashop",
-	"/Users/Shared/academia",
-	"/Users/Shared/a3erp",
-	"/Users/Shared/borrar",
-	"/Users/Shared/vscodeajustes",
-	"/Users/Shared/arduino"
+		"code",
+		"/Users/Shared/personal",
+		"/Users/Shared/trabajo",
+		"/Users/Shared/wordpress",
+		"/Users/Shared/prestashop",
+		"/Users/Shared/academia",
+		"/Users/Shared/a3erp",
+		"/Users/Shared/borrar",
+		"/Users/Shared/vscodeajustes",
+		"/Users/Shared/arduino"
 	],
 	"projectManager.vscode.baseFolders": [
-	"/Users/Shared/personal",
-	"/Users/Shared/trabajo",
-	"/Users/Shared/wordpress",
-	"/Users/Shared/prestashop",
-	"/Users/Shared/academia",
-	"/Users/Shared/a3erp",
-	"/Users/Shared/borrar",
-	"/Users/Shared/vscodeajustes",
-	"/Users/Shared/arduino"
+		"/Users/Shared/personal",
+		"/Users/Shared/trabajo",
+		"/Users/Shared/wordpress",
+		"/Users/Shared/prestashop",
+		"/Users/Shared/academia",
+		"/Users/Shared/a3erp",
+		"/Users/Shared/borrar",
+		"/Users/Shared/vscodeajustes",
+		"/Users/Shared/arduino"
 	],
 	"projectManager.any.baseFolders": [
-	"/Users/Shared/personal",
-	"/Users/Shared/trabajo",
-	"/Users/Shared/wordpress",
-	"/Users/Shared/prestashop",
-	"/Users/Shared/academia",
-	"/Users/Shared/a3erp",
-	"/Users/Shared/borrar",
-	"/Users/Shared/vscodeajustes",
-	"/Users/Shared/arduino"
+		"/Users/Shared/personal",
+		"/Users/Shared/trabajo",
+		"/Users/Shared/wordpress",
+		"/Users/Shared/prestashop",
+		"/Users/Shared/academia",
+		"/Users/Shared/a3erp",
+		"/Users/Shared/borrar",
+		"/Users/Shared/vscodeajustes",
+		"/Users/Shared/arduino"
 	],
 	"python.analysis.autoImportCompletions": true,
 	"python.createEnvironment.contentButton": "show",
@@ -1323,25 +1311,38 @@
 	"[dotenv]": {
 		"editor.defaultFormatter": "foxundermoon.shell-format"
 	},
-"security.promptForLocalFileProtocolHandling": false,
-  "settingsSync.ignoredExtensions": [],
-  "settingsSync.ignoredSettings": [],
-  "gitProjectManager.baseProjectsFolders": [
-    "/Users/Shared/personal",
-    "/Users/Shared/trabajo",
-    "/Users/Shared/wordpress",
-    "/Users/Shared/prestashop",
-    "/Users/Shared/academia",
-    "/Users/Shared/a3erp",
-    "/Users/Shared/borrar",
-    "/Users/Shared/vscodeajustes",
-    "/Users/Shared/arduino"
-  ],
-  "gitProjectManager.searchInsideProjects": true,
-  "gitProjectManager.maxDepthRecursion": 2,
-  "gitProjectManager.checkRemoteOrigin": true,
-  "gitProjectManager.openInNewWindow": false,
-  "gitProjectManager.storeRepositoriesBetweenSessions": true,
-  "gitProjectManager.displayProjectPath": true,
-  "gitProjectManager.warnIfFolderNotFound": true
+	"security.promptForLocalFileProtocolHandling": false,
+	"settingsSync.ignoredExtensions": [],
+	"settingsSync.ignoredSettings": [],
+	"gitProjectManager.baseProjectsFolders": [
+		"/Users/Shared/personal",
+		"/Users/Shared/trabajo",
+		"/Users/Shared/wordpress",
+		"/Users/Shared/prestashop",
+		"/Users/Shared/academia",
+		"/Users/Shared/a3erp",
+		"/Users/Shared/borrar",
+		"/Users/Shared/vscodeajustes",
+		"/Users/Shared/arduino"
+	],
+	"gitProjectManager.searchInsideProjects": true,
+	"gitProjectManager.maxDepthRecursion": 2,
+	"gitProjectManager.checkRemoteOrigin": true,
+	"gitProjectManager.openInNewWindow": false,
+	"gitProjectManager.storeRepositoriesBetweenSessions": true,
+	"gitProjectManager.displayProjectPath": true,
+	"gitProjectManager.warnIfFolderNotFound": true,
+	"workbench.iconTheme": "material-icon-theme",
+	"markdown-preview-enhanced.automaticallyShowPreviewOfMarkdownBeingEdited": true,
+	"markdown-preview-enhanced.breakOnSingleNewLine": true,
+	"markdown-preview-enhanced.enableEmojiSyntax": true,
+	"markdown-preview-enhanced.enableWikiLinkSyntax": true,
+	"markdown-preview-enhanced.frontMatterRenderingOption": "table",
+	"markdown-preview-enhanced.previewTheme": "github-light.css",
+	"markdown-preview-enhanced.scrollSync": true,
+	"markdown-preview-enhanced.enableExtendedTableSyntax": true,
+	"markdown-preview-enhanced.mathRenderingOption": "KaTeX",
+	"markdown-preview-enhanced.mermaidTheme": "default",
+	"markdown-preview-enhanced.codeBlockTheme": "github.css",
+	"markdown-preview-enhanced.previewMode": "Single Preview"
 }

@@ -40,4 +40,73 @@ Este documento sirve como recordatorio de las aplicaciones esenciales que instal
 
 **Por qué la instalo:** Yarn ofrece una mayor velocidad y confiabilidad en la instalación de paquetes comparado con npm. También proporciona un bloqueo de versiones más preciso, lo que ayuda a mantener la consistencia entre diferentes entornos de desarrollo.
 
-Estas aplicaciones forman parte esencial de mi flujo de trabajo en desarrollo web, facilitando la gestión de dependencias y las pruebas de API, lo que mejora significativamente mi productividad y la calidad del código que produzco.
+Claro, te ayudaré a instalar Yarn en tu Mac. Primero, vamos a crear un documento con las aplicaciones que sueles instalar, incluyendo Yarn, y luego te guiaré para instalar Yarn específicamente.
+
+# Aplicaciones que siempre instalo
+
+Este documento sirve como recordatorio de las aplicaciones que habitualmente instalo en mi entorno de desarrollo, junto con una breve descripción de su utilidad.
+
+## 1. Insomnia
+
+**Descripción:** Insomnia es una poderosa herramienta de cliente HTTP y GraphQL. Es útil para probar, depurar y diseñar APIs.
+
+**Uso principal:**
+
+- Realizar solicitudes HTTP (GET, POST, PUT, DELETE, etc.) a APIs
+- Organizar y guardar solicitudes para su reutilización
+- Probar y depurar APIs GraphQL
+- Generar documentación de API
+
+## 2. Postman
+
+**Descripción:** Postman es otra popular herramienta de colaboración para el desarrollo de API. Ofrece funcionalidades similares a Insomnia, pero con algunas características adicionales.
+
+**Uso principal:**
+
+- Diseñar, probar y documentar APIs
+- Colaborar en equipo en el desarrollo de APIs
+- Automatizar pruebas de API
+- Monitorear el rendimiento de las APIs
+
+## 3. Yarn
+
+**Descripción:** Yarn es un gestor de paquetes para JavaScript, alternativo a npm (Node Package Manager). Es conocido por su velocidad y seguridad.
+
+**Uso principal:**
+
+- Instalar y gestionar dependencias de proyectos JavaScript
+- Garantizar que las instalaciones sean consistentes en diferentes sistemas
+- Mejorar la velocidad de instalación de paquetes
+- Proporcionar comandos adicionales útiles para el desarrollo
+
+# Instalar Yarn en tu Mac. Aquí tienes los pasos a seguir:
+
+1. Primero, asegúrate de tener Homebrew instalado. Si no lo tienes, puedes instalarlo ejecutando este comando en la Terminal:
+
+   ```
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ```
+
+2. Una vez que tengas Homebrew, puedes instalar Yarn fácilmente con el siguiente comando:
+
+   ```
+   brew install yarn
+   ```
+
+3. Espera a que la instalación se complete. Homebrew descargará e instalará Yarn y todas sus dependencias.
+
+4. Para verificar que Yarn se ha instalado correctamente, puedes ejecutar:
+
+   ```
+   yarn --version
+   ```
+
+   Esto debería mostrar la versión de Yarn que has instalado.
+
+5. Si quieres usar Yarn sin Node.js, puedes instalarlo sin dependencias usando:
+
+   ```
+   brew install yarn --ignore-dependencies
+   ```
+
+Y eso es todo. Ahora tienes Yarn instalado en tu Mac y puedes empezar a usarlo en tus proyectos JavaScript.
