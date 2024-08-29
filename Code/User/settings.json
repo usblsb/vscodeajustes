@@ -1344,5 +1344,8 @@
 	"markdown-preview-enhanced.mathRenderingOption": "KaTeX",
 	"markdown-preview-enhanced.mermaidTheme": "default",
 	"markdown-preview-enhanced.codeBlockTheme": "github.css",
-	"markdown-preview-enhanced.previewMode": "Single Preview"
+	"markdown-preview-enhanced.previewMode": "Single Preview",
+	"workbench.editorAssociations": {
+		"*.md": "vscode.markdown.preview.editor"
+	}
 }
