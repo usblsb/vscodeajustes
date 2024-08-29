@@ -1,0 +1,1298 @@
+{
+	"workbench.colorCustomizations": {
+		"activityBar.activeBackground": "#4b8043",
+		"activityBar.background": "#1E2B37",
+		"activityBar.foreground": "#ECF0F1",
+		"activityBar.inactiveForeground": "#BDC3C7",
+		"activityBarBadge.background": "#ff1900",
+		"activityBarBadge.foreground": "#FFFFFF",
+		"breadcrumb.background": "#2b4a66",
+		"breadcrumb.foreground": "#fff",
+		"breadcrumb.focusForeground": "#ff0",
+		"breadcrumb.activeSelectionForeground": "#ff0",
+		"breadcrumbPicker.background": "#222",
+		"commandCenter.border": "#3498DB",
+		"editorCursor.foreground": "#ffff00",
+		"terminalCursor.foreground": "#ffff00",
+		"editorBracketHighlight.foreground1": "#fff36c",
+		"editorBracketHighlight.foreground2": "#f472bb",
+		"editorBracketHighlight.foreground3": "#06c9ff",
+		"editorBracketHighlight.foreground4": "#50FA7B",
+		"editorBracketHighlight.foreground5": "#F1FA8C",
+		"editorBracketHighlight.foreground6": "#8BE9FD",
+		"editorIndentGuide.background1": "#fff36c",
+		"editorIndentGuide.background2": "#f472bb",
+		"editorIndentGuide.background3": "#06c9ff",
+		"editorIndentGuide.background4": "#50FA7B",
+		"editorIndentGuide.background5": "#F1FA8C",
+		"editorIndentGuide.background6": "#8BE9FD",
+		"editorIndentGuide.activeBackground1": "#8BE9FD",
+		"editorIndentGuide.activeBackground2": "#F1FA8C",
+		"editorIndentGuide.activeBackground3": "#50FA7B",
+		"editorIndentGuide.activeBackground4": "#06c9ff",
+		"editorIndentGuide.activeBackground5": "#f472bb",
+		"editorIndentGuide.activeBackground6": "#fff36c",
+		"editor.lineHighlightBackground": "#000000ff",
+		"editor.lineHighlightBorder": "#aaaaaa00",
+		"editor.findMatchBackground": "#007700",
+		"editor.findMatchBorder": "#00ff00",
+		"editor.findMatchHighlightBackground": "#00330085",
+		"editor.findMatchHighlightBorder": "#007733",
+		"editor.selectionBackground": "#8d0808",
+		"editor.selectionHighlightBackground": "#8d0808d6",
+		"editor.selectionHighlightBorder": "#ff0000",
+		"indentRainbow.colors": [
+			"rgba(255,223,0,0.4)",
+			"rgba(152,255,152,0.4)",
+			"rgba(135,206,250,0.4)",
+			"rgba(230,190,255,0.4)"
+		],
+		"peacock.color": "#2C3E50",
+		"sash.hoverBorder": "#2980B9",
+		"statusBar.background": "#34495E",
+		"statusBar.foreground": "#ECF0F1",
+		"statusBarItem.hoverBackground": "#2C3E50",
+		"statusBarItem.remoteBackground": "#c12222",
+		"statusBarItem.remoteForeground": "#FFFFFF",
+		"titleBar.activeBackground": "#2C3E50",
+		"titleBar.activeForeground": "#ECF0F1",
+		"titleBar.inactiveBackground": "#1E2B37",
+		"titleBar.inactiveForeground": "#BDC3C7",
+		"tab.activeBorder": "#FFD700",
+		"tab.activeBorderTop": "#FFD700",
+		"tab.activeBackground": "#153ab3",
+		"tab.activeForeground": "#ECF0F1",
+		"tab.border": "#FFD700",
+		"tab.inactiveBackground": "#273746",
+		"tab.inactiveForeground": "#BDC3C7",
+		"trailing-spaces.backgroundColor": "rgba(195,50,195,0.5)",
+		"trailing-spaces.borderColor": "rgba(195,50,195,0.8)",
+		"trailing-spaces.includeEmptyLines": true,
+		"trailing-spaces.highlightCurrentLine": false,
+		"trailing-spaces.deleteModifiedLinesOnly": true,
+		"trailing-spaces.trimOnSave": true,
+		"bookmarks.lineBackground": "#157EFB22",
+		"bookmarks.lineBorder": "#FF0000",
+		"bookmarks.overviewRuler": "#157EFB88"
+	},
+	"activitusbar.showSourceControlCounter": true,
+	"activitusbar.alignment": "Right",
+	"errorLens.fontWeight": "bold",
+	"gutterpreview.imagePreviewMaxHeight": 300,
+	"gutterpreview.imagePreviewMaxWidth": 300,
+	"problems.showCurrentInStatus": true,
+	"projectManager.git.baseFolders": ["code"],
+	"workbench.settingedits.or": "json",
+	"workbench.colorTheme": "Default Dark+",
+	"workbench.preferredDarkColorTheme": "Default Dark+",
+	"workbench.preferredHighContrastColorTheme": "Default Dark+",
+	"workbench.preferredHighContrastLightColorTheme": "Default Dark+",
+	"workbench.editor.tabSizing": "shrink",
+	"workbench.editor.highlightModifiedTabs": true,
+	"window.titleBarStyle": "custom",
+	"editor.tabSize": 4,
+	"search.useGlobalIgnoreFiles": true,
+	"markdown.extension.preview.autoShowPreviewToSide": true,
+	"editor.fontSize": 18,
+	"editor.fontFamily": "'Cascadia Code PL', 'JetBrains Mono', 'Fira Code', 'IBM Plex Mono', 'Ubuntu Mono', 'Courier New', monospace",
+	"editor.fontLigatures": true,
+	"editor.wordWrap": "on",
+	"editor.minimap.enabled": false,
+	"editor.renderWhitespace": "boundary",
+	"editor.suggestSelection": "first",
+	"editor.cursorBlinking": "expand",
+	"editor.linkedEditing": true,
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.cursorStyle": "line",
+	"editor.cursorWidth": 4,
+	"editor.bracketPairColorization.enabled": true,
+	"editor.guides.bracketPairs": "active",
+	"editor.stickyScroll.enabled": true,
+	"files.autoSaveDelay": 0,
+	"CodeGPT.query.language": "Spanish",
+	"prettier.useTabs": true,
+	"vsicons.dontShowNewVersionMessage": true,
+	"workbench.settings.applyToAllProfiles": ["prettier.useTabs"],
+	"workbench.startupEditor": "newUntitledFile",
+	"terminal.integrated.fontSize": 18,
+	"terminal.integrated.fontFamily": "'Cascadia Code PL', 'MesloLGS NF'",
+	"git.autofetch": true,
+	"git.enableSmartCommit": true,
+	"git.confirmSync": true,
+	"git.openRepositoryInParentFolders": "always",
+	"gitblame.commitUrl": "${tool.protocol}://${gitorigin.hostname}${gitorigin.port}${gitorigin.path}${tool.basepath}/${hash}",
+	"gitblame.ignoreWhitespace": false,
+	"gitblame.infoMessageFormat": "${commit.hash} ${commit.summary}",
+	"gitblame.statusBarMessageFormat": "Blame ${author.name} (${time.ago})",
+	"gitblame.statusBarMessageNoCommit": "Not Committed Yet",
+	"gitblame.statusBarPositionPriority": 500,
+	"gitblame.inlineMessageFormat": "Blame ${author.name} (${time.ago})",
+	"gitblame.inlineMessageNoCommit": "Not Committed Yet",
+	"gitblame.inlineMessageEnabled": false,
+	"gitblame.inlineMessageMargin": 2,
+	"gitblame.delayBlame": 0,
+	"gitblame.parallelBlames": 2,
+	"git-graph.repository.commits.fetchAvatars": true,
+	"git-graph.repository.commits.showSignatureStatus": true,
+	"git-graph.repository.commits.mute.commitsThatAreNotAncestorsOfHead": true,
+	"git-graph.repository.commits.showAuthorAndCommitter": true,
+	"git-graph.repository.onlyFollowFirstParent": false,
+	"git-graph.repository.useMailmap": true,
+	"git-graph.date.format": "ISO Date Only",
+	"git-graph.date.type": "Author Date",
+	"git-graph.graph.colours": [
+		"#0085d9",
+		"#d95204",
+		"#00a513",
+		"#9a0087",
+		"#bf6500",
+		"#008778",
+		"#7700bd",
+		"#6e7600",
+		"#b50000"
+	],
+	"git-graph.graph.style": "rounded",
+	"git-graph.defaultColumnVisibility": {
+		"Date": true,
+		"Author": true,
+		"Commit": true
+	},
+	"git-graph.dialog.createBranch.defaultBranchType": "local",
+	"git-graph.dialog.createTag.defaultTagType": "annotated",
+	"git-graph.dialog.merge.noFastForward": true,
+	"git-graph.showStatusBarItem": true,
+	"git-graph.maxDepthOfRepoSearch": 5,
+	"git-graph.commitDetailsView.fileView.type": "File Tree",
+	"git-graph.commitDetailsView.location": "Docked to Bottom",
+	"git-graph.contextMenuActionsVisibility": {
+		"branch": {
+			"checkout": true,
+			"createPullRequest": true,
+			"merge": true,
+			"rebase": true
+		},
+		"commit": {
+			"addTag": true,
+			"checkout": true,
+			"cherrypick": true,
+			"copyHash": true,
+			"createBranch": true,
+			"drop": true,
+			"merge": true,
+			"rebase": true,
+			"reset": true,
+			"revert": true
+		},
+		"tag": {
+			"delete": true,
+			"push": true,
+			"viewDetails": true
+		}
+	},
+	// Configuraciones relacionadas con Guides
+	"guides.normal.color": "rgba(60, 60, 60, 0.75)",
+	"guides.normal.style": "solid",
+	"guides.normal.width": 2,
+	"guides.active.color": "rgba(220, 220, 220, 0.75)",
+	"guides.active.style": "solid",
+	"guides.active.width": 2,
+	"guides.stack.color": "rgba(100, 100, 100, 0.75)",
+	"guides.stack.style": "solid",
+	"guides.stack.width": 1,
+	"guides.indent.backgrounds": [
+		"rgba(30, 30, 30, 0.15)",
+		"rgba(60, 60, 60, 0.15)",
+		"rgba(90, 90, 90, 0.15)",
+		"rgba(120, 120, 120, 0.15)"
+	],
+	"guides.normal.enabled": true,
+	"guides.active.enabled": true,
+	"guides.stack.enabled": true,
+	"guides.limit.maximum": 500,
+	"guides.overrideDefault": true,
+	"guides.sendUsagesAndStats": false,
+	"guides.updateDelay": 100,
+	"guides.hideOnSelection": false,
+	// Configuraciones relacionadas con HTML CSS Support
+	"css.styleSheets": [
+		// Bootstrap CDN (versiones 4 y 5)
+		"https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/css/bootstrap.min.css",
+		"https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/css/bootstrap.min.css",
+		// Font Awesome CDN (versiones 5 y 6)
+		"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css",
+		"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css",
+		// Tus archivos locales
+		"src/**/*.css",
+		"src/**/*.scss"
+	],
+	"css.enabledLanguages": [
+		"html",
+		"vue",
+		"php",
+		"twig",
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact"
+	],
+	"html.suggest.html5": true,
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact",
+		"vue-html": "html",
+		"plaintext": "pug"
+	},
+	"emmet.syntaxProfiles": {
+		"html": {
+			"attr_quotes": "double"
+		},
+		"jsx": {
+			"self_closing_tag": true
+		}
+	},
+	"emmet.triggerExpansionOnTab": true,
+	"css.lint.compatibleVendorPrefixes": "warning",
+	"css.lint.vendorPrefix": "warning",
+	"css.lint.duplicateProperties": "warning",
+	"css.lint.emptyRules": "warning",
+	// Configuraciones relacionadas con html tag wrapper
+	"html-tag-wrapper.tag": "div",
+	"html-tag-wrapper.autoDeselectText": true,
+	"html-tag-wrapper.enableEmmet": true,
+	"html-tag-wrapper.supportedLanguages": [
+		"html",
+		"xml",
+		"php",
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact",
+		"vue"
+	],
+	"html-tag-wrapper.enableAutoClosingTags": true,
+	"html-tag-wrapper.enableAutoClosingSelfClosingTags": true,
+	"html-tag-wrapper.autoCloseOnEnter": true,
+	"html-tag-wrapper.wrapMode": "multiple",
+	// Configuraciones relacionadas con HTML to CSS autocompletion
+	"html-to-css-autocompletion.triggerCharacters": false,
+	"html-to-css-autocompletion.autocompletionFilesScope": "workspace",
+	"html-to-css-autocompletion.getSelectorsFromFileTypes": [
+		"html",
+		"php",
+		"vue",
+		"jsx",
+		"tsx"
+	],
+	"html-to-css-autocompletion.includePattern": "**/*.{html,php,vue,jsx,tsx}",
+	"html-to-css-autocompletion.excludePattern": "**/node_modules/**",
+	// Configuraciones relacionadas con Image preview image-preview.
+	"image-preview.autoOpen": true,
+	"image-preview.maxHeight": 512,
+	"image-preview.maxWidth": 512,
+	"image-preview.previewInExplorer": true,
+	"image-preview.previewInEditor": true,
+	"image-preview.previewInSourceControl": true,
+	"image-preview.previewInTerminal": true,
+	"image-preview.previewInPanel": true,
+	"image-preview.previewInNotebook": true,
+	"image-preview.previewInDiffEditor": true,
+	"image-preview.previewInPeekView": true,
+	"image-preview.previewInHover": true,
+	"image-preview.previewOnClick": true,
+	"image-preview.zoomLevel": 1,
+	// Configuraciones relacionadas con Isort
+	"isort.severity": {
+		"W": "Warning",
+		"E": "Error"
+	},
+	"python.sortImports.args": ["--profile", "black"],
+	// Configuraciones relacionadas con JSON Crack
+	"jsonCrack.customTheme": {
+		"background": "#1E2B37",
+		"nodeBackground": "#34495E",
+		"nodeText": "#ECF0F1",
+		"nodeHover": "#2980B9",
+		"nodeBorder": "#3498DB",
+		"edgeColor": "#BDC3C7"
+	},
+	"jsonCrack.maxDepth": 20,
+	"jsonCrack.autoOpenWebview": true,
+	"jsonCrack.autoZoom": true,
+	"jsonCrack.hideRoot": false,
+	"jsonCrack.hideEdges": false,
+	"jsonCrack.hideNodeIcons": false,
+	"jsonCrack.hideJsonSchema": false,
+	"jsonCrack.showFullPath": true,
+	"jsonCrack.showArrayIndex": true,
+	"jsonCrack.expandFirstChild": true,
+	"jsonCrack.layoutDirection": "horizontal",
+	// Configuraciones relacionadas con Live Preview
+	"livePreview.autoRefreshPreview": "On Changes to Saved Files",
+	"livePreview.customExternalBrowser": "Edge",
+	"livePreview.debugOnExternalPreview": true,
+	"livePreview.defaultPreviewPath": "/",
+	"livePreview.hostedWorkspacePath": "",
+	"livePreview.httpHeaders": {},
+	"livePreview.https": {
+		"enable": false,
+		"cert": "",
+		"key": "",
+		"passphrase": ""
+	},
+	"livePreview.logLevel": "info",
+	"livePreview.nodeModulesAllowlist": [],
+	"livePreview.portNumber": 0,
+	"livePreview.showServerStatusNotifications": true,
+	"livePreview.tasks": [
+		{
+			"name": "Live Preview",
+			"command": "live-preview.start",
+			"runOptions": {
+				"runOn": "folderOpen"
+			}
+		}
+	],
+	// Configuraciones relacionadas con Live Server
+	"liveServer.settings.donotShowInfoMsg": true,
+	"liveServer.settings.donotVerifyTags": false,
+	"liveServer.settings.port": 5500,
+	"liveServer.settings.root": "/",
+	"liveServer.settings.CustomBrowser": "microsoft-edge",
+	"liveServer.settings.https": {
+		"enable": false,
+		"cert": "",
+		"key": "",
+		"passphrase": ""
+	},
+	"liveServer.settings.file": "",
+	"liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+	"liveServer.settings.chromeDebuggingAttachment": false,
+	"liveServer.settings.ignoreFiles": [
+		".vscode/**",
+		"**/*.scss",
+		"**/*.sass",
+		"**/*.ts"
+	],
+	"liveServer.settings.wait": 400,
+	"liveServer.settings.host": "127.0.0.1",
+	"liveServer.settings.useLocalIp": false,
+	"liveServer.settings.fullReload": false,
+	"liveServer.settings.mount": [],
+	"liveServer.settings.useWebExt": false,
+	"liveServer.settings.proxy": {
+		"enable": false,
+		"baseUri": "/",
+		"proxyUri": "http://localhost:80"
+	},
+	"liveServer.settings.showOnStatusbar": true,
+	// Configuraciones relacionadas con Microsoft Edge Tools for VS Code
+	"vscode-edge-devtools.headless": false,
+	"vscode-edge-devtools.defaultUrl": "http://localhost:3000",
+	"vscode-edge-devtools.webhint": true,
+	"vscode-edge-devtools.sourceMaps": true,
+	"vscode-edge-devtools.timeout": 10000,
+	"vscode-edge-devtools.browserArgs": ["--disable-extensions"],
+	"vscode-edge-devtools.useHttps": false,
+	"vscode-edge-devtools.showWorkers": false,
+	"vscode-edge-devtools.userDataDir": true,
+	"vscode-edge-devtools.sourceMapPathOverrides": {
+		"webpack:///./src/*": "${webRoot}/src/*",
+		"webpack:///src/*": "${webRoot}/src/*",
+		"webpack:///*": "*",
+		"webpack:///./~/*": "${webRoot}/node_modules/*"
+	},
+	"vscode-edge-devtools.webhintInstallNotification": true,
+	// Configuraciones relacionadas con MySQL de Weijan Chen
+	"database-client.telemetry.usesOnlineServices": false,
+	"database-client.autoGetTableCount": true,
+	"database-client.autoPagingSQL": true,
+	"database-client.autoSync": false,
+	"database-client.bindConnectionByActiveMark": true,
+	"database-client.capitalizeKeywordsWhenFormatting": false,
+	"database-client.completionTriggerKey": [" ", "@", "."],
+	"database-client.confirmWhenUpdateWithoutWhere": true,
+	"database-client.defaultSelectLimit": 100,
+	"database-client.disableSqlCodeLenNew": false,
+	"database-client.disableSQLCompletion": false,
+	"database-client.escapedAllObjectName": false,
+	"database-client.executeCursorSQLByShortcut": true,
+	"database-client.highlightSQLBlock": true,
+	"database-client.openResultsAsVertically": true,
+	"database-client.queryWithSchema": false,
+	"database-client.reloadAfterDML": false,
+	"database-client.saveConnectionExpandedState": true,
+	"database-client.showTrigger": true,
+	"database-client.showUser": true,
+	"database-client.splitEditorWhenQuery": true,
+	"database-client.splitSQLByNewLine": true,
+	"database-client.terminalLocation": "Editor",
+	"database-client.variableIndicator": [":"],
+	// Configuraciones relacionadas con open in browser
+	"open-in-browser.default": "Microsoft Edge",
+	// Configuraciones relacionadas con Output Colorizer VSCode Log Output Colorizer
+	"outputColorizer.semanticHighlighting": true,
+	"outputColorizer.contextualParsing": true,
+	"outputColorizer.darkThemeColorCustomizations": {
+		"errorKeywords": "#FF6B6B",
+		"warningKeywords": "#FFA502",
+		"infoKeywords": "#54A0FF",
+		"debugKeywords": "#5F27CD",
+		"dateTime": "#FF9FF3",
+		"filePaths": "#1DD1A1",
+		"numbers": "#54A0FF",
+		"strings": "#FF9FF3",
+		"regex": "#FF6B6B"
+	},
+	"outputColorizer.lightThemeColorCustomizations": {
+		"errorKeywords": "#E74C3C",
+		"warningKeywords": "#F39C12",
+		"infoKeywords": "#3498DB",
+		"debugKeywords": "#8E44AD",
+		"dateTime": "#E84393",
+		"filePaths": "#00B894",
+		"numbers": "#3498DB",
+		"strings": "#E84393",
+		"regex": "#E74C3C"
+	},
+	// Configuraciones relacionadas con Paste JSON as Code
+	"quicktype.inferBooleanStrings": true,
+	"quicktype.inferDateTimes": true,
+	"quicktype.inferEnums": true,
+	"quicktype.inferIntegerStrings": true,
+	"quicktype.inferMaps": true,
+	"quicktype.inferUuids": true,
+	"quicktype.justTypes": false,
+	// Configuraciones relacionadas con Path Autocomplete
+	"path-autocomplete.disableUpOneFolder": false,
+	"path-autocomplete.enableFolderTrailingSlash": true,
+	"path-autocomplete.excludedItems": {
+		"**/*.js": {
+			"when": "**/*.ts"
+		},
+		"**/*.map": {
+			"when": "**/*.js"
+		},
+		"**/{.git,node_modules}": true
+	},
+	"path-autocomplete.extensionOnImport": true,
+	"path-autocomplete.ignoredFilesPattern": "**/*.{png,jpg,jpeg,svg,gif}",
+	"path-autocomplete.ignoredPrefixes": ["http://", "https://"],
+	"path-autocomplete.includeExtension": true,
+	"path-autocomplete.pathMappings": {
+		"$root": "${workspaceFolder}",
+		"$src": "${workspaceFolder}/src"
+	},
+	"path-autocomplete.pathSeparators": " \t({[",
+	"path-autocomplete.transformations": [
+		{
+			"type": "replace",
+			"parameters": ["\\", "/"]
+		}
+	],
+	"path-autocomplete.triggerOutsideStrings": false,
+	"path-autocomplete.useBackslash": false,
+	"path-autocomplete.useSingleBackslash": false,
+	// Configuraciones relacionadas con Path Intellisense
+	"path-intellisense.absolutePathToWorkspace": true,
+	"path-intellisense.autoSlashAfterDirectory": true,
+	"path-intellisense.autoTriggerNextSuggestion": true,
+	"path-intellisense.extensionOnImport": true,
+	"path-intellisense.ignoreTsConfigBaseUrl": false,
+	"path-intellisense.mappings": {
+		"/": "${workspaceFolder}",
+		"src": "${workspaceFolder}/src",
+		"components": "${workspaceFolder}/src/components"
+	},
+	"path-intellisense.showHiddenFiles": true,
+	"path-intellisense.showOnAbsoluteSlash": true,
+	// Configuración de la extensión Rewrap de stkb
+	// Configuración de Rewrap
+	"rewrap.autoWrap.enabled": true,
+	"rewrap.doubleSentenceSpacing": false,
+	"rewrap.reformat": false,
+	"rewrap.wholeComment": true,
+	"rewrap.wrappingColumn": 80,
+	// Configuración de la extensión SQL Server (mssql) de Microsoft
+	// Configuraciones generales
+	"mssql.connections": [],
+	"mssql.enableConnectionPooling": true,
+	"mssql.enableQueryHistoryCapture": true,
+	"mssql.enableQueryHistoryFeature": true,
+	"mssql.maxRecentConnections": 5,
+	// Configuraciones de IntelliSense
+	"mssql.intelliSense.enableIntelliSense": true,
+	"mssql.intelliSense.enableErrorChecking": true,
+	"mssql.intelliSense.enableQuickInfo": true,
+	"mssql.intelliSense.enableSuggestions": true,
+	"mssql.intelliSense.lowerCaseSuggestions": false,
+	// Configuraciones de formato
+	"mssql.format.alignColumnDefinitionsInColumns": true,
+	"mssql.format.datatypeCasing": "uppercase",
+	"mssql.format.keywordCasing": "uppercase",
+	"mssql.format.placeCommasBeforeNextStatement": false,
+	"mssql.format.placeSelectStatementReferencesOnNewLine": true,
+	// Configuraciones de ejecución de consultas
+	"mssql.query.displayBitAsNumber": true,
+	"mssql.query.executionTimeout": 30,
+	"mssql.query.noCount": true,
+	"mssql.query.rowCount": 1000,
+	// Configuraciones de visualización de resultados
+	"mssql.messagesDefaultOpen": true,
+	"mssql.resultsFontFamily": "'Cascadia Code PL', 'MesloLGS NF', Consolas, monospace",
+	"mssql.resultsFontSize": 18,
+	"mssql.saveAsCsv.includeHeaders": true,
+	"mssql.saveAsCsv.delimiter": ",",
+	"mssql.saveAsCsv.lineSeparator": "\n",
+	"mssql.showBatchTime": true,
+	// Configuraciones de Object Explorer
+	"mssql.objectExplorer.expandTimeout": 45,
+	"mssql.objectExplorer.groupBySchema": true,
+	"mssql.tracingLevel": "Information",
+	// Configuración de la extensión px to rem
+	"px-to-rem.px-per-rem": 16,
+	"px-to-rem.number-of-decimals-digits": 4,
+	"px-to-rem.only-change-first-ocurrence": true,
+	"px-to-rem.notify-if-no-changes": true,
+	// Configuraciones relacionadas con la extension de SVG del desarrollador jock
+	// Configuraciones de completado
+	"svg.completion.showAdvanced": true,
+	"svg.completion.showDeprecated": false,
+	"svg.completion.emmet": true,
+	// Configuraciones de resaltado
+	"svg.pathDataHighlight": true,
+	// Configuraciones de vista previa
+	"svg.preview.autoShow": true,
+	"svg.preview.autoFit": true,
+	"svg.preview.background": "transparent",
+	"svg.preview.backgroundCustom": "#ffffff",
+	"svg.preview.mode": "svg",
+	"svg.preview.showRuler": true,
+	"svg.preview.showCrossLine": true,
+	"svg.preview.toolbarSize": "mini",
+	"svg.preview.viewMode": "onlyOne",
+	// Configuraciones de minificación
+	"svg.minify.cleanupAttrs": true,
+	"svg.minify.removeComments": true,
+	"svg.minify.removeEmptyAttrs": true,
+	"svg.minify.removeEmptyText": true,
+	"svg.minify.removeHiddenElems": true,
+	"svg.minify.removeMetadata": true,
+	"svg.minify.removeUnknownsAndDefaults": true,
+	"svg.minify.removeUnusedNS": true,
+	"svg.minify.sortAttrs": true,
+	"svg.minify.sortDefsChildren": true,
+	"svg.minify.convertColors": true,
+	"svg.minify.convertStyleToAttrs": true,
+	"svg.minify.minifyStyles": true,
+	"svg.minify.inlineStyles": true,
+	"svg.minify.cleanupIDs": true,
+	// Configuraciones relacionadas con extension TODO Highlight de Wayou Liu
+	// Configuraciones generales
+	"todohighlight.isEnable": true,
+	"todohighlight.isCaseSensitive": true,
+	"todohighlight.toggleURI": true,
+	"todohighlight.maxFilesForSearch": 10240,
+	// Configuración de estilo por defecto
+	"todohighlight.defaultStyle": {
+		"color": "#FF0000",
+		"backgroundColor": "#FFAB00",
+		"overviewRulerColor": "#FFAB00",
+		"isWholeLine": false,
+		"foreground": "#FFFFFF"
+	},
+	// Configuración de palabras clave personalizadas
+	"todohighlight.keywords": [
+		{
+			"text": "TODO:",
+			"color": "#ff0000",
+			"backgroundColor": "#ffab00"
+		},
+		{
+			"text": "HACER:",
+			"color": "#ff0000",
+			"backgroundColor": "#ffab00"
+		},
+		{
+			"text": "FIXME:",
+			"color": "#ffffff",
+			"backgroundColor": "#ff0000"
+		},
+		{
+			"text": "REPARAR:",
+			"color": "#ffffff",
+			"backgroundColor": "#ff0000"
+		},
+		{
+			"text": "ELIMINAR:",
+			"color": "#ffffff",
+			"backgroundColor": "#ff0000"
+		},
+		{
+			"text": "NOTE:",
+			"color": "#000000",
+			"backgroundColor": "#82B1FF"
+		},
+		{
+			"text": "NOTA:",
+			"color": "#000000",
+			"backgroundColor": "#82B1FF"
+		},
+		{
+			"text": "MIRAR:",
+			"color": "#000000",
+			"backgroundColor": "#82B1FF"
+		},
+		{
+			"text": "HACK:",
+			"color": "#000000",
+			"backgroundColor": "#FF8F00"
+		}
+	],
+	// Configuración de archivos a incluir y excluir
+	"todohighlight.include": [
+		"**/*.js",
+		"**/*.jsx",
+		"**/*.ts",
+		"**/*.tsx",
+		"**/*.html",
+		"**/*.php",
+		"**/*.css",
+		"**/*.scss",
+		"**/*.py",
+		"**/*.java",
+		"**/*.md"
+	],
+	"todohighlight.exclude": [
+		"**/node_modules/**",
+		"**/bower_components/**",
+		"**/dist/**",
+		"**/build/**",
+		"**/.vscode/**",
+		"**/.github/**",
+		"**/_output/**",
+		"**/*.min.*",
+		"**/*.map",
+		"**/.next/**"
+	],
+	// Configuraciones relacionadas con extension Todo Tree de Gruntfuggly
+	// Configuraciones generales
+	"todo-tree.general.tags": [
+		"TODO:",
+		"FIXME:",
+		"BUG:",
+		"HACK:",
+		"NOTE:",
+		"[ ]",
+		"[x]",
+		"HACER:",
+		"REPARAR:",
+		"ELIMINAR:",
+		"NOTA:",
+		"MIRAR:"
+	],
+	"todo-tree.general.tagGroups": {
+		"FIXME": ["FIXME", "FIX", "FIXIT", "ISSUE"]
+	},
+	"todo-tree.general.statusBar": "total",
+	"todo-tree.general.showIconsInsteadOfTagsInStatusBar": true,
+	// Configuraciones de filtrado
+	"todo-tree.filtering.includeGlobs": ["**/*"],
+	"todo-tree.filtering.excludeGlobs": [
+		"**/node_modules/**",
+		"**/dist/**",
+		"**/build/**",
+		"**/.vscode/**",
+		"**/lib/**"
+	],
+	"todo-tree.filtering.useBuiltInExcludes": "file excludes",
+	// Configuraciones de resaltado
+	"todo-tree.highlights.defaultHighlight": {
+		"icon": "alert",
+		"type": "text",
+		"foreground": "#FFFFFF",
+		"background": "#FF0000",
+		"opacity": 50,
+		"iconColour": "#0000FF"
+	},
+	"todo-tree.highlights.customHighlight": {
+		"TODO": {
+			"icon": "check",
+			"background": "#FFFF00",
+			"foreground": "#000000"
+		},
+		"FIXME": {
+			"icon": "tools",
+			"background": "#FF0000",
+			"foreground": "#FFFFFF"
+		},
+		"BUG": {
+			"icon": "bug",
+			"background": "#8B0000"
+		},
+		"HACK": {
+			"icon": "flame",
+			"background": "#FFA500"
+		},
+		"NOTE": {
+			"icon": "info",
+			"background": "#0000FF"
+		}
+	},
+	// Configuraciones del árbol
+	"todo-tree.tree.showCountsInTree": true,
+	"todo-tree.tree.flat": true,
+	"todo-tree.tree.grouped": true,
+	"todo-tree.tree.trackFile": true,
+	"todo-tree.tree.labelFormat": "${tag} ${after}",
+	// Configuraciones de regex
+	"todo-tree.regex.regex": "((//|#|<!--|;|/\\*|^)\\s*($TAGS)|^\\s*- \\[ \\])",
+	// Configuraciones de escaneo
+	"todo-tree.general.scanMode": "workspace",
+	"todo-tree.general.rootFolder": "${workspaceFolder}",
+	// Configuraciones relacionadas con extension Trailing Spaces de Shardul Mahadik trailing-spaces
+	// Configuraciones de visualización
+	"trailing-spaces.backgroundColor": "rgba(255,0,0,0.2)",
+	"trailing-spaces.borderColor": "rgba(255,100,100,0.1)",
+	"trailing-spaces.highlightCurrentLine": true,
+	// Configuraciones de comportamiento
+	"trailing-spaces.includeEmptyLines": true,
+	"trailing-spaces.deleteModifiedLinesOnly": false,
+	"trailing-spaces.trimOnSave": true,
+	"trailing-spaces.liveMatching": true,
+	// Configuraciones de alcance
+	"trailing-spaces.syntaxIgnore": ["markdown", "plaintext"],
+	"trailing-spaces.schemeIgnore": ["output", "debug"],
+	// Configuraciones avanzadas
+	"trailing-spaces.regexp": "[ \\t]+",
+	"trailing-spaces.logLevel": "warn",
+	"trailing-spaces.showStatusBarMessage": true,
+	// Configuraciones relacionadas con extension Turbo Console Log de Anas Chakroun
+	// Configuraciones de formato
+	"turboConsoleLog.addSemicolonInTheEnd": true,
+	"turboConsoleLog.delimiterInsideMessage": "->",
+	"turboConsoleLog.logMessagePrefix": "🔍",
+	"turboConsoleLog.logMessageSuffix": ":",
+	"turboConsoleLog.quote": "\"",
+	"turboConsoleLog.wrapLogMessage": true,
+	// Configuraciones de contenido
+	"turboConsoleLog.includeFileNameAndLineNum": true,
+	"turboConsoleLog.insertEnclosingClass": true,
+	"turboConsoleLog.insertEnclosingFunction": true,
+	// Configuraciones de espaciado
+	"turboConsoleLog.insertEmptyLineBeforeLogMessage": true,
+	"turboConsoleLog.insertEmptyLineAfterLogMessage": false,
+	// Configuraciones de función de log
+	"turboConsoleLog.logType": "log",
+	"turboConsoleLog.logFunction": "console.log",
+	// Configuraciones relacionadas con extension Version Lens de pflannery
+	// Configuraciones generales
+	"versionlens.suggestions.showOnStartup": true,
+	"versionlens.suggestions.showPrereleasesOnStartup": false,
+	"versionlens.caching.duration": 5,
+	"versionlens.logging.level": "error",
+	// Configuraciones de HTTP
+	"versionlens.http.strictSSL": true,
+	// Configuraciones específicas por lenguaje
+	"versionlens.npm.dependencyProperties": [
+		"dependencies",
+		"devDependencies",
+		"peerDependencies",
+		"optionalDependencies"
+	],
+	"versionlens.composer.dependencyProperties": ["require", "require-dev"],
+	"versionlens.cargo.dependencyProperties": [
+		"dependencies",
+		"dev-dependencies"
+	],
+	"versionlens.dotnet.dependencyProperties": [
+		"PackageReference",
+		"DotNetCliToolReference"
+	],
+	"versionlens.maven.dependencyProperties": [
+		"project.dependencies.dependency",
+		"project.parent"
+	],
+	"versionlens.pub.dependencyProperties": ["dependencies", "dev_dependencies"],
+	"versionlens.pypi.dependencyProperties": [
+		"packages",
+		"dev-packages",
+		"tool.poetry.dependencies"
+	],
+	// Configuraciones de archivos
+	"versionlens.npm.files": "**/package.json",
+	"versionlens.composer.files": "**/composer.json",
+	"versionlens.cargo.files": "**/Cargo.toml",
+	"versionlens.dotnet.files": "**/*.{csproj,fsproj,targets}",
+	"versionlens.maven.files": "**/pom.xml",
+	"versionlens.pub.files": "**/pubspec.yaml",
+	"versionlens.pypi.files": "**/{Pipfile,pyproject.toml}",
+	// Configuraciones de indicadores
+	"versionlens.suggestions.indicators": {
+		"Latest": "🟢",
+		"Updateable": "↑ ",
+		"Error": "🔴"
+	},
+	// Configuraciones de pre-releases
+	"versionlens.npm.prereleaseTagFilter": ["alpha", "beta", "rc"],
+	"versionlens.composer.prereleaseTagFilter": ["alpha", "beta", "RC"],
+	"versionlens.cargo.prereleaseTagFilter": ["alpha", "beta", "rc"],
+	"versionlens.dotnet.prereleaseTagFilter": ["alpha", "beta", "rc"],
+	"versionlens.maven.prereleaseTagFilter": ["alpha", "beta", "RC"],
+	"versionlens.pub.prereleaseTagFilter": ["dev", "alpha", "beta"],
+	"versionlens.pypi.prereleaseTagFilter": ["a", "b", "rc", "dev"],
+	// Configuraciones relacionadas con extension de VS Color Picker de vs-color-picker
+	// Configuraciones de VS Color Picker
+	"vs-color-picker.autoLaunch": true,
+	"vs-color-picker.autoLaunchDelay": 150,
+	// Configuraciones adicionales recomendadas para trabajar con colores
+	"editor.colorDecorators": true,
+	"editor.quickSuggestions": {
+		"strings": true
+	},
+	// Configuraciones relacionadas con extension vscode-icons de VSCode Icons Team
+	"vsicons.presets.angular": false,
+	"vsicons.presets.jsOfficial": true,
+	"vsicons.presets.tsOfficial": true,
+	"vsicons.presets.jsonOfficial": true,
+	"vsicons.presets.nestjs": false,
+	"vsicons.presets.hideFolders": false,
+	"vsicons.presets.hideExplorerArrows": false,
+	"vsicons.associations.files": [
+		{
+			"icon": "typescript",
+			"extensions": [
+				"ts",
+				"tsx"
+			],
+			"format": "svg"
+		},
+		{
+			"icon": "javascript",
+			"extensions": [
+				"js",
+				"jsx"
+			],
+			"format": "svg"
+		}
+	],
+	"vsicons.associations.folders": [
+		{
+			"icon": "src",
+			"extensions": [
+				"source",
+				"sources"
+			],
+			"format": "svg"
+		},
+		{
+			"icon": "test",
+			"extensions": [
+				"tests",
+				"specs"
+			],
+			"format": "svg"
+		}
+	],
+	// Configuraciones relacionadas con extension vscode-pdf de tomoki1207
+	"pdf-preview.default.cursor": "select",
+	"pdf-preview.default.scale": "auto",
+	"pdf-preview.default.scrollMode": "vertical",
+	"pdf-preview.default.sidebar": true,
+	"pdf-preview.default.spreadMode": "none",
+	// Configuraciones relacionadas con extension WordPress Hooks IntelliSense de johnbillion
+	"vscode-wordpress-hooks.docBlocks.enable": true,
+	"vscode-wordpress-hooks.typeDeclarations.enable": true,
+	// Configuraciones relacionadas con extension YAML de Red Hat
+	"yaml.format.enable": true,
+	"yaml.format.singleQuote": false,
+	"yaml.format.bracketSpacing": true,
+	"yaml.format.printWidth": 80,
+	"yaml.format.proseWrap": "preserve",
+	"yaml.validate": true,
+	"yaml.hover": true,
+	"yaml.completion": true,
+	"yaml.schemas": {},
+	"yaml.schemaStore.enable": true,
+	"yaml.customTags": [],
+	"yaml.maxItemsComputed": 5000,
+	"yaml.disableAdditionalProperties": false,
+	"yaml.yamlVersion": "1.2",
+	"yaml.extension.recommendations": true,
+	// Configuraciones de CSS Peek
+	"cssPeek.supportTags": true,
+	"cssPeek.peekFromLanguages": [
+		"html",
+		"ejs",
+		"php",
+		"javascriptreact",
+		"typescriptreact"
+	],
+	"cssPeek.peekToExclude": [
+		"**/node_modules/**",
+		"**/bower_components/**",
+		"**/dist/**",
+		"**/build/**"
+	],
+	"cssPeek.activeLanguages": ["css", "scss", "less"],
+	"filesize.use24HourFormat": true,
+	"filesize.displayInfoOnTheRightSideOfStatusBar": true,
+	// Configuraciones de Edit csv
+	"csv-edit.quoteAllFields": false,
+	"csv-edit.quoteEmptyOrNullFields": "true",
+	"csv-edit.initiallyHideComments": false,
+	"csv-edit.lineNumbers": true,
+	"csv-edit.readOption_hasHeader": "true",
+	"csv-edit.retainQuoteInformation": true,
+	"csv-edit.newColumnQuoteInformationIsQuoted": false,
+	"csv-edit.writeOption_hasHeader": "true",
+	"csv-edit.writeOption_delimiter": ",",
+	"csv-edit.writeOption_lineSeparator": "auto",
+	"csv-edit.openSourceFileAfterApply": false,
+	"csv-edit.enableWrapping": true,
+	"csv-edit.hideOpenCsvEditorUiActions": false,
+	"csv-edit.loadDataLimit": 20000,
+	"csv-edit.loadDataOnOpen": true,
+	"csv-edit.commentCharacter": "#",
+	// Configuraciones de File Properties Viewer
+	"filePropertiesViewer.sizeMode": "kibi",
+	"filePropertiesViewer.dateTimeFormat": "yyyy-MM-dd HH:mm:ss",
+	"filePropertiesViewer.disableRelativeTimestamps": false,
+	"filePropertiesViewer.queryMediaInfo": true,
+	"filePropertiesViewer.outputStylePath": "",
+	"explorer.fileNesting.enabled": true,
+	"explorer.fileNesting.expand": false,
+	"isort.args": ["black", "--profile"],
+	"isort.check": true,
+	"isort.importStrategy": "fromEnvironment",
+	"github.copilot.enable": {
+		"*": false,
+		"python": true,
+		"php": true,
+		"json": true,
+		"git-commit": true,
+		"git-rebase": true,
+		"html": true,
+		"java": true,
+		"javascript": true,
+		"jsonc": true,
+		"markdown": true,
+		"powershell": true,
+		"sql": true,
+		"xml": true,
+		"bat": true
+	},
+	"github.copilot.chat.localeOverride": "es",
+	"github.copilot.chat.scopeSelection": true,
+	"github.copilot.chat.customUserInstructions": [
+		"Eres un asistente de programación experto en Python, PHP y JSON. Proporciona en español respuestas concisas y ejemplos de código cuando sea apropiado."
+	],
+	"better-comments.tags": [
+		{
+			"tag": "!",
+			"color": "#FF2D00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "?",
+			"color": "#3498DB",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": true
+		},
+		{
+			"tag": "//",
+			"color": "#474747",
+			"strikethrough": true,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "todo",
+			"color": "#FF8C00",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "*",
+			"color": "#98C379",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "note",
+			"color": "#3498DB",
+			"strikethrough": false,
+			"underline": false,
+			"backgroundColor": "transparent",
+			"bold": false,
+			"italic": true
+		}
+	],
+	"crashacters.characterBlacklist": {
+		"ranges": [
+			{
+				"start": 0,
+				"end": 9
+			},
+			{
+				"start": 11,
+				"end": 31
+			},
+			{
+				"start": 127,
+				"end": 160
+			},
+			{
+				"start": 173,
+				"end": 173
+			},
+			{
+				"start": 1564,
+				"end": 1564
+			},
+			{
+				"start": 6158,
+				"end": 6158
+			},
+			{
+				"start": 8203,
+				"end": 8207
+			},
+			{
+				"start": 8232,
+				"end": 8238
+			},
+			{
+				"start": 8288,
+				"end": 8292
+			},
+			{
+				"start": 8294,
+				"end": 8303
+			},
+			{
+				"start": 8368,
+				"end": 65535
+			},
+			{
+				"start": 65279,
+				"end": 65279
+			},
+			{
+				"start": 65529,
+				"end": 65531
+			}
+		]
+	},
+	"css.format.spaceAroundSelectorSeparator": true,
+	"css-auto-prefix.prefixes": {
+		"transform": ["webkit", "moz", "ms", "o"],
+		"transition": ["webkit", "moz", "ms", "o"],
+		"border-radius": ["webkit", "moz", "ms", "o"],
+		"animation": ["webkit"],
+		"box-reflect": ["webkit"],
+		"filter": ["webkit"],
+		"font-feature-settings": ["webkit", "moz"],
+		"backface-visibility": ["webkit"],
+		"box-decoration-break": ["webkit"],
+		"hyphens": ["webkit", "moz", "ms"],
+		"marquee-direction": ["webkit"],
+		"marquee-play-count": ["webkit"],
+		"marquee-speed": ["webkit"],
+		"marquee-style": ["webkit"],
+		"text-combine-upright": ["webkit", "moz", "ms"],
+		"text-decoration-color": ["moz"],
+		"text-decoration-line": ["moz"],
+		"text-decoration-style": ["moz"],
+		"text-orientation": ["webkit"],
+		"writing-mode": ["webkit", "ms"]
+	},
+	"auto-close-tag.activationOnLanguage": [
+		"xml",
+		"php",
+		"blade",
+		"ejs",
+		"jinja",
+		"javascript",
+		"javascriptreact",
+		"typescript",
+		"typescriptreact",
+		"plaintext",
+		"markdown",
+		"vue",
+		"liquid",
+		"erb",
+		"lang-cfml",
+		"cfml",
+		"HTML (EEx)",
+		"HTML (Eex)",
+		"plist"
+	],
+	"auto-close-tag.excludedTags": [
+		"area",
+		"base",
+		"br",
+		"col",
+		"command",
+		"embed",
+		"hr",
+		"img",
+		"input",
+		"keygen",
+		"link",
+		"meta",
+		"param",
+		"source",
+		"track",
+		"wbr"
+	],
+	"auto-rename-tag.activationOnLanguage": ["html", "xml", "php", "javascript"],
+	"csv-edit.fontSizeInPx": 18,
+	"csv-edit.fontFamilyInTable": "sameAsCodeEditor",
+	"csv-edit.dragToAutoFill": "copyOnly",
+	"fileutils.duplicateFile.typeahead.enabled": true,
+	"git.autofetchPeriod": 360,
+	"git-graph.dialog.applyStash.reinstateIndex": true,
+	"git-graph.dialog.cherryPick.noCommit": true,
+	"git-graph.dialog.cherryPick.recordOrigin": true,
+	"git-graph.dialog.createBranch.checkOut": true,
+	"git-graph.dialog.deleteBranch.forceDelete": true,
+	"git-graph.dialog.fetchIntoLocalBranch.forceFetch": true,
+	"git-graph.dialog.fetchRemote.prune": true,
+	"git-graph.dialog.fetchRemote.pruneTags": true,
+	"githubIssues.createIssueTriggers": ["TODO", "todo", "BUG", "FIXME", "ISSUE"],
+	"gitlens.experimental.generateCommitMessagePrompt": "Ahora, genere un commit message. Asegúrese de que incluye un asunto preciso e informativo que resuma sucintamente el quid de los cambios en menos de 50 caracteres. Si es necesario, añada un cuerpo explicativo que explique la naturaleza de los cambios, el razonamiento que los sustenta y cualquier consecuencia o consideración importante que se derive de ellos. Concluya el mensaje con las referencias pertinentes.",
+	"gitlens.experimental.generateCloudPatchMessagePrompt": "Ahora, genere un título y una descripción opcional. Asegúrese de que incluye un asunto preciso e informativo que resuma sucintamente el quid de los cambios en menos de 50 caracteres. Si es necesario, añada un cuerpo explicativo que explique la naturaleza de los cambios, el razonamiento que los sustenta y cualquier consecuencia o consideración importante que se derive de ellos. Concluya el mensaje con las referencias pertinentes.",
+	"gitlens.experimental.generateCodeSuggestMessagePrompt": "Ahora, genere un título y una descripción opcional. Asegúrese de que incluye un asunto preciso e informativo que resuma sucintamente el quid de los cambios en menos de 50 caracteres. Si es necesario, añada un cuerpo explicativo que explique la naturaleza de los cambios, el razonamiento que los sustenta y cualquier consecuencia o consideración importante que se derive de ellos. Concluya el mensaje con las referencias pertinentes.",
+	"guides.active.extraIndent": true,
+	"isort.showNotifications": "onWarning",
+	"vscode-edge-devtools.browserFlavor": "Default",
+	"projectManager.groupList": true,
+	"projectManager.showParentFolderInfoOnDuplicates": true,
+	"projectManager.tags": [
+		"Personal",
+		"Work",
+		"AI",
+		"Python",
+		"MataCanaria",
+		"ElectronicaShool",
+		"WordPress",
+		"Prestashop",
+		"Theme",
+		"Arduino"
+	],
+	"python.analysis.autoImportCompletions": true,
+	"python.createEnvironment.contentButton": "show",
+	"autoDocstring.includeExtendedSummary": true,
+	"autoDocstring.includeName": true,
+	"autoDocstring.startOnNewLine": true,
+	"pythonIndent.trimLinesWithOnlyWhitespace": true,
+	"pythonIndent.useTabOnHangingIndent": true,
+	"rainbow_csv.autodetection_min_line_count": 20,
+	"sqlite3-editor.maxHistoryEntries": 100,
+	"sqlite3-editor.telemetry": "deny",
+	"explorer.fileNesting.patterns": {
+		"*.ts": "${capture}.js",
+		"*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
+		"*.jsx": "${capture}.js",
+		"*.tsx": "${capture}.ts",
+		"tsconfig.json": "tsconfig.*.json",
+		"package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb",
+		"*.sqlite": "${capture}.${extname}-*",
+		"*.db": "${capture}.${extname}-*",
+		"*.sqlite3": "${capture}.${extname}-*",
+		"*.db3": "${capture}.${extname}-*",
+		"*.sdb": "${capture}.${extname}-*",
+		"*.s3db": "${capture}.${extname}-*"
+	},
+	"sqltools.tableTreeItemsExpanded": true,
+	"todo-tree.general.showActivityBarBadge": true,
+	"todo-tree.general.statusBarClickBehaviour": "toggle highlights",
+	"todo-tree.filtering.ignoreGitSubmodules": true,
+	"todo-tree.tree.buttons.export": true,
+	"todo-tree.tree.filterCaseSensitive": true,
+	"todo-tree.filtering.includeHiddenFiles": true,
+	"extensions.ignoreRecommendations": true,
+	"todo-tree.tree.buttons.groupBySubTag": true,
+	"todo-tree.tree.buttons.scanMode": true,
+	"bookmarks.sideBar.expanded": true,
+	"bookmarks.gutterIconBorderColor": "#00F900",
+	"bookmarks.label.suggestion": "useWhenSelected",
+	"editor.minimap.sectionHeaderFontSize": 12,
+	"editor.minimap.scale": 3,
+	"editor.minimap.showSlider": "always",
+	"editor.quickSuggestionsDelay": 12,
+	"editor.suggestFontSize": 18,
+	"workbench.externalBrowser": "edge",
+	"workbench.editor.defaultBinaryEditor": "default",
+	"accessibility.signals.save": {
+		"sound": "always"
+	},
+	"accessibility.signals.lineHasWarning": {
+		"sound": "on"
+	},
+	"accessibility.signals.positionHasError": {
+		"sound": "on"
+	},
+	"debug.console.fontSize": 18,
+	"terminal.integrated.env.osx": {},
+	"telemetry.telemetryLevel": "error",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"astro.content-intellisense": true,
+	"astro.language-server.ls-path": "",
+	"astro.language-server.runtime": "",
+	"astro.trace.server": "off",
+	"[astro]": {
+		"editor.defaultFormatter": "astro-build.astro-vscode",
+		"editor.formatOnSave": true,
+		"editor.tabSize": 2,
+		"editor.insertSpaces": true,
+		"files.insertFinalNewline": true,
+		"files.trimTrailingWhitespace": true,
+		"files.eol": "\n",
+		"editor.wordWrap": "on"
+	},
+	"prettier.documentSelectors": ["**/*.astro"],
+	"[ignore]": {
+		"editor.defaultFormatter": "foxundermoon.shell-format"
+	},
+	"explorer.confirmPasteNative": false,
+	"[dotenv]": {
+		"editor.defaultFormatter": "foxundermoon.shell-format"
+	},
+"security.promptForLocalFileProtocolHandling": false,
+  "settingsSync.ignoredExtensions": [],
+  "settingsSync.ignoredSettings": [],
+  "gitProjectManager.baseProjectsFolders": [
+    "/Users/Shared/personal",
+    "/Users/Shared/trabajo",
+    "/Users/Shared/wordpress",
+    "/Users/Shared/prestashop",
+    "/Users/Shared/academia",
+    "/Users/Shared/a3erp",
+    "/Users/Shared/borrar",
+    "/Users/Shared/vscodeajustes",
+    "/Users/Shared/arduino"
+  ],
+  "gitProjectManager.searchInsideProjects": true,
+  "gitProjectManager.maxDepthRecursion": 2,
+  "gitProjectManager.checkRemoteOrigin": true,
+  "gitProjectManager.openInNewWindow": false,
+  "gitProjectManager.storeRepositoriesBetweenSessions": true,
+  "gitProjectManager.displayProjectPath": true,
+  "gitProjectManager.warnIfFolderNotFound": true
+}
